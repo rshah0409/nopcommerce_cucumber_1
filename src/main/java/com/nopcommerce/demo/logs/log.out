@@ -1,0 +1,97 @@
+2021-06-28 20:06:485 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:418 INFO  HomePage :40 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (2ac57ec6edecc294e2d1e8bec84605a8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:44 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:763 INFO  HomePage :40 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (9de470518cbdb1a45fd621a0d6fff439)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:943 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:602 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:463 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:716 INFO  HomePage :59 - Clicking on Books's tab[[ChromeDriver: chrome on WINDOWS (acd6c5d7cbf53dd9c37fd8bd8ae7bba4)] -> xpath: //body/div[6]/div[2]/ul[1]/li[5]/a[1]]
+2021-06-28 20:06:861 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 20:06:118 INFO  HomePage :49 - Clicking on Apparel's tab[[ChromeDriver: chrome on WINDOWS (102b5b5ad6d19525f6d60739db133a97)] -> xpath: //body/div[6]/div[2]/ul[1]/li[3]/a[1]]
+2021-06-28 21:06:378 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 21:06:949 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (ff2d2ef48e4400fdd37eecad8bfddc03)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:00 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (ff2d2ef48e4400fdd37eecad8bfddc03)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 21:06:509 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 21:06:32 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (c2d57b73ded4000a7132d56d7bc27d50)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:99 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (c2d57b73ded4000a7132d56d7bc27d50)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 22:06:998 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:770 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (d5a7fa4f5eb8943dcbeec44edb286e1b)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:773 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@cc62a3b
+2021-06-28 22:06:66 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (d5a7fa4f5eb8943dcbeec44edb286e1b)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:637 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:875 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (310fcc2b931576e55cedbf709fa96dc9)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:912 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (310fcc2b931576e55cedbf709fa96dc9)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 22:06:40 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:968 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (b2745f1a26c2f280f695bf04584eb228)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:970 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@cc62a3b
+2021-06-28 22:06:191 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (b2745f1a26c2f280f695bf04584eb228)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:117 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:169 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (aea842f6dfc8a5823e900754bb90c83a)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:201 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (aea842f6dfc8a5823e900754bb90c83a)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 22:06:845 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:88 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (03e4b90e2fe498e50e0d5829b08b01f5)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:93 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@cc62a3b
+2021-06-28 22:06:358 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (03e4b90e2fe498e50e0d5829b08b01f5)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:594 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (03e4b90e2fe498e50e0d5829b08b01f5)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 22:06:704 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 22:06:273 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (89c4f0c2cf1643bbda01aa2e78524b84)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:315 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (89c4f0c2cf1643bbda01aa2e78524b84)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 23:06:257 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:323 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (a805b8f13422bc099971781e08ea2a17)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:325 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@52c8295b
+2021-06-28 23:06:694 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (a805b8f13422bc099971781e08ea2a17)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:957 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (a805b8f13422bc099971781e08ea2a17)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 23:06:637 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:272 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (2b31e163120098b31e9244884bf87417)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:273 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@261d8190
+2021-06-28 23:06:644 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (2b31e163120098b31e9244884bf87417)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:873 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (2b31e163120098b31e9244884bf87417)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 23:06:898 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:784 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (d25606a958f44c5bd5775a274907a7a2)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:816 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (d25606a958f44c5bd5775a274907a7a2)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 23:06:147 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:381 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:382 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@52c8295b
+2021-06-28 23:06:59 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:288 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 23:06:441 INFO  DeskTopPage :39 - clicking on Add to cart button[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //div[@class='add-info']/child::div[1]/child::span[text()='$1,200.00']/following::div[1]/child::button[text()='Add to cart']]
+2021-06-28 23:06:928 INFO  BuildYourOwnPage :35 - Get build your page text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //div[@class='overview']/div/child::h1]
+2021-06-28 23:06:195 INFO  BuildYourOwnPage :43 - Get DropDownOne Text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: product_attribute_1]
+2021-06-28 23:06:380 INFO  BuildYourOwnPage :49 - Get Select Ram From Dropdown2 Text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: product_attribute_2]
+2021-06-28 23:06:511 INFO  BuildYourOwnPage :54 - click on radio button hdd text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: product_attribute_3_7]
+2021-06-28 23:06:647 INFO  BuildYourOwnPage :59 - click on OS radio button 2 text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: product_attribute_4_9]
+2021-06-28 23:06:783 INFO  BuildYourOwnPage :64 - click on software checkbox  text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: product_attribute_5_12]
+2021-06-28 23:06:63 INFO  BuildYourOwnPage :68 - Get totalamt text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //span[text()='$1,475.00']]
+2021-06-28 23:06:200 INFO  BuildYourOwnPage :74 - click on add to cart text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> id: add-to-cart-button-1]
+2021-06-28 23:06:499 INFO  BuildYourOwnPage :78 - Get top bar messsage text[[ChromeDriver: chrome on WINDOWS (97897adcf5a6a1c1c98ea5d4e40fc731)] -> xpath: //p[text()='The product has been added to your ']]
+2021-06-28 23:06:431 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:598 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (ee430258f0f58914ee1d7ec7e64e96b8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:600 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@65327f5
+2021-06-28 23:06:864 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (ee430258f0f58914ee1d7ec7e64e96b8)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:66 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (ee430258f0f58914ee1d7ec7e64e96b8)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 23:06:89 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 23:06:242 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (c47b461dd21e819c625f13449ebb9e2d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:279 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (c47b461dd21e819c625f13449ebb9e2d)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-30 12:06:49 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:466 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:467 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@52c8295b
+2021-06-30 12:06:709 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:921 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //select[@id='products-orderby']]
+2021-06-30 12:06:77 INFO  DeskTopPage :39 - clicking on Add to cart button[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //div[@class='add-info']/child::div[1]/child::span[text()='$1,200.00']/following::div[1]/child::button[text()='Add to cart']]
+2021-06-30 12:06:788 INFO  BuildYourOwnPage :35 - Get build your page text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //div[@class='overview']/div/child::h1]
+2021-06-30 12:06:125 INFO  BuildYourOwnPage :43 - Get DropDownOne Text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: product_attribute_1]
+2021-06-30 12:06:486 INFO  BuildYourOwnPage :49 - Get Select Ram From Dropdown2 Text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: product_attribute_2]
+2021-06-30 12:06:659 INFO  BuildYourOwnPage :54 - click on radio button hdd text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: product_attribute_3_7]
+2021-06-30 12:06:815 INFO  BuildYourOwnPage :59 - click on OS radio button 2 text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: product_attribute_4_9]
+2021-06-30 12:06:966 INFO  BuildYourOwnPage :64 - click on software checkbox  text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: product_attribute_5_12]
+2021-06-30 12:06:194 INFO  BuildYourOwnPage :68 - Get totalamt text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //span[text()='$1,475.00']]
+2021-06-30 12:06:370 INFO  BuildYourOwnPage :74 - click on add to cart text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> id: add-to-cart-button-1]
+2021-06-30 12:06:219 INFO  BuildYourOwnPage :78 - Get top bar messsage text[[ChromeDriver: chrome on WINDOWS (e892e2e308f91cfe5d20cbf92282503a)] -> xpath: //p[text()='The product has been added to your ']]
+2021-06-30 12:06:195 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:669 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (fe8a99cf12efff83d9e8bf0d4fb55d9d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:670 INFO  ComputersPage :33 - Getting welcome textcom.nopcommerce.demo.pages.HomePage@65327f5
+2021-06-30 12:06:317 INFO  ComputersPage :41 -  clicking on Desktop [[ChromeDriver: chrome on WINDOWS (fe8a99cf12efff83d9e8bf0d4fb55d9d)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:526 INFO  DeskTopPage :32 - select A to Z text[[ChromeDriver: chrome on WINDOWS (fe8a99cf12efff83d9e8bf0d4fb55d9d)] -> xpath: //select[@id='products-orderby']]
+2021-06-30 12:06:821 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:827 INFO  HomePage :42 - Clicking on computer's tab[[ChromeDriver: chrome on WINDOWS (f457ccc9b0785717d35c8623dbb546a4)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:881 INFO  HomePage :80 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (f457ccc9b0785717d35c8623dbb546a4)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
